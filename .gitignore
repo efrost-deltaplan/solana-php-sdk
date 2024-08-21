@@ -30,3 +30,5 @@ Homestead.json
 /.run/
 /build/
 
+composer.lock
+
