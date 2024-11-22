@@ -32,7 +32,7 @@ Forked from the Verze repo:  [verze-app/solana-php-sdk](https://github.com/verze
 You can install the package via composer :
 
 ```bash
-composer require attestto/solana-php-sdk
+composer require efrost-deltaplan/solana-php-sdk
 ```
 ### From this Repository
 

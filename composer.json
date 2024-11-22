@@ -1,5 +1,5 @@
 {
-    "name": "cryptothree/solana-php-sdk",
+    "name": "efrost-deltaplan/solana-php-sdk",
     "description": "Solana PHP SDK for interacting with the Solana blockchain",
     "keywords": [
         "attestto",
@@ -10,7 +10,7 @@
         "sdk",
         "php"
     ],
-    "homepage": "https://github.com/cryptothree/solana-php-sdk",
+    "homepage": "https://github.com/efrost-deltaplan/solana-php-sdk",
     "license": "MIT",
     "authors": [
         {
@@ -28,6 +28,10 @@
             "email": "eduardo@attestto.com",
             "homepage": "https://github.com/chongkan",
             "role": "Developer - [Current Maintainer]"
+        },
+        {
+            "name": "Eugene Frost",
+            "email": "e.frost@deltaplan.pro"
         }
     ],
     "require": {
